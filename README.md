@@ -24,6 +24,8 @@ Mobius(oneM2M 플랫폼)로 전송하는 구조를 학습하기 위해 제작되
 
 <img width="1164" height="684" alt="image" src="https://github.com/user-attachments/assets/2a55611e-fe5d-4f57-864e-4986391b9394" />
 
+
+## 🛠 설명 영상
 https://github.com/user-attachments/assets/99d0ffd2-3198-4620-a0a6-6ff986e496f8
 
 
